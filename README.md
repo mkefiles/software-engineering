@@ -2,15 +2,17 @@
 
 ## Project Listing
 
-- Project 1 (Revature) -- COMPLETE
-- Project 2 (Revature) -- COMPLETE
-- Project 3 (York - Practice Assignment 01) -- INCOMPLETE
-- Project 4 (York - Practice Assignment 02) -- INCOMPLETE
-- Project 5 (York - Self Assigned React Projects) -- COMPLETE
-- Project 6 (York - Self Assigned RabbitMQ Project) -- COMPLETE
-- Project 7 (York - Self Assigned RabbitMQ / Spring Project) -- COMPLETE
-- Project 8 (York - Practice Challenge 01) -- COMPLETE
-- Project 9 (York - Final Project) -- COMPLETE
+- Project 01 (Revature) -- COMPLETE
+- Project 02 (Revature) -- COMPLETE
+- Project 03 (York - Practice Assignment 01) -- INCOMPLETE
+- Project 04 (York - Practice Assignment 02) -- INCOMPLETE
+- Project 05 (York - Self Assigned React Projects) -- COMPLETE
+- Project 06 (York - Self Assigned RabbitMQ Project) -- COMPLETE
+- Project 07 (York - Self Assigned RabbitMQ / Spring Project) -- COMPLETE
+- Project 08 (York - Practice Challenge 01) -- COMPLETE
+- Project 09 (York - Final Project) -- COMPLETE
+- Project 10 (York - Misc. Project) -- COMPLETE
+- Project 11 (York - Misc. Project) -- COMPLETE 
 
 ### Project 1
 This is a *backend* REST API project with made using Javalin. See Project Overview for project-specific information.
@@ -40,3 +42,9 @@ This is a *backend* project that uses Spring (and Spring Modulith) as well as Ra
 
 ### Project 9
 This is a *full-stack* project that uses Spring for the back-end, Kafka (alongside Postgres), PostgreSQL for the database and React for the front-end. Note that there are, also, unit tests with Mockito, MockMVC and JUnit in the API / Consumer code-base.
+
+### Project 10
+This is a miscellaneous *frontend* project that I self-assigned to learn more about React and React Router. Using the *Random Jokes API* (with `fetch`), I was able to assemble a small app that uses React, React Router and TypeScript.
+
+### Project 11
+This is a miscellaneous *backend* project that I self-assigned to experiment with C# / ASP.NET Core. Using ASP.NET Core, Entity Framework Core, SQLite and C# I was able to replicate *Project 2* (i.e., a simple Social Media Blog API).
