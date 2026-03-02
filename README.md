@@ -1,46 +1,124 @@
 # Software Engineering
 This is a *master* repository of different web-development projects created during my internship with Revature, my time at York and personal side-projects for educational purposes.
 
-TEST
-<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>
-
-[Google](https://www.google.com/){:target="_blank"}
-
-[Google](https://www.google.com/){target="_blank"}
-
 ## Projects
 
-### Project 1 (Revature)
-This is a *backend* REST API project with made using Javalin. See Project Overview for project-specific information.
+### Project 1
 
-### Project 2 (Revature)
-This is a *backend* REST API project with Spring. It is similar to Project 1, however it uses the Spring Framework to accomplish the tasks. See Project Overview for project-specific information.
+- [Social Media App](https://github.com/mkefiles/software-engineering/tree/main/Project-01_Backend)
+- Tech. Stack:
+  - Java (incl. Javalin)
+- Goal: Create a simple REST API project with eight CRUD endpoints
 
-### Project 3 (York :: Practice)
-This is a *full-stack* project that uses Spring for a *backend* REST API, React for the *frontend* and PostgreSQL for the *database*. The project is **incomplete** as I was unable to finish all requirements within the alotted time-frame. The *backend* is almost complete, however the *frontend* was not started whatsoever. See Project Overview for project-specific information.
+---
 
-### Project 4 (York :: Practice)
-This is another *full-stack* project that uses Spring for a *backend* REST API, React for the *frontend* and PostgreSQL for the *database*. The project is **incomplete** as I was unable to finish all requirements within the alotted time-frame. The *backend* endpoints are complete and the *frontend* is partially complete. See Project Overview for project-specific information.
+### Project 2
+
+- [Social Media App](https://github.com/mkefiles/software-engineering/tree/main/Project-02_Backend)
+- Tech. Stack:
+  - Java (incl. Spring)
+- Goal: Create a simple REST API project with eight CRUD endpoints
+
+---
+
+### Project 3
+
+- [Health Benefits and Claims App](https://github.com/mkefiles/software-engineering/tree/main/Project-03_Backend)
+- Tech. Stack:
+  - Java (incl. Spring)
+  - Postgres
+- Goal: Create a full-stack app (API on the backend and UI on the frontend)
+- Note: This was a practice project and the frontend portion was not completed
+
+---
+
+### Project 4
+
+- [Member Benefits Dashboard](https://github.com/mkefiles/software-engineering/tree/main/Project-04_Both)
+- Tech. Stack:
+  - Java (incl. Spring)
+  - Postgres
+  - JavaScript (incl. React)
+- Goal: Create a full-stack app (API on the backend and UI on the frontend)
+- Note: This was a practice project and the frontend portion was not completed
+
+---
 
 ### Project 5
-This project consists of two separate, yet simple, React projects that were created after following the React tutorial (linked below). Note that there is no Project Overview for this.
 
-[Udemy Tutorial](https://www.udemy.com/course/react-the-complete-guide-incl-redux?src=sac&kw=reac)
+- [Misc. React Apps](https://github.com/mkefiles/software-engineering/tree/main/Project-05_Frontend)
+- Tech. Stack:
+  - TypeScript (incl. React)
+- Goal: Learn more about React (and TypeScript) based on the following tutorial
+- Resources:
+  - [Udemy Tutorial](https://www.udemy.com/course/react-the-complete-guide-incl-redux?src=sac&kw=reac)
+
+---
 
 ### Project 6
-This is a **basic** RabbitMQ project (using regular Java). The goal was to gain a basic understanding of RabbitMQ and to test that my Docker instance of RabbitMQ was working as anticipated.
+
+- [Message Broker (Basic)](https://github.com/mkefiles/software-engineering/tree/main/Project-06_Backend)
+- Tech. Stack:
+  - Java
+  - RabbitMQ
+  - Docker
+- Goal: Create a basic *Message Broker* (with vanilla Java) to gain a better understanding of RabbitMQ (incl. Docker)
+
+---
 
 ### Project 7
-This is a **basic** RabbitMQ project that pulls in Spring. At this point, I was aiming to try and deploy a simple Spring application with RabbitMQ.
+
+- [Message Broker with Spring (Basic)](https://github.com/mkefiles/software-engineering/tree/main/Project-07_Backend)
+- Tech. Stack:
+  - Java (incl. Spring)
+  - RabbitMQ
+  - Docker
+- Goal: Create a basic *Message Broker* (with Spring) to gain a better understanding of RabbitMQ (incl. Docker)
+
+---
 
 ### Project 8
-This is a *backend* project that uses Spring (and Spring Modulith) as well as RabbitMQ. This challenge also uses some basic Unit Tests with Mockito and JUnit. See Project Overview for project-specific information.
+
+- [Message Broker (Modulith)](https://github.com/mkefiles/software-engineering/tree/main/Project-08_Backend)
+- Tech. Stack:
+  - Java (incl. Spring and Spring Modulith)
+  - RabbitMQ
+  - Docker
+  - JUnit and Mockito
+- Goal: Explore Spring Modulith with a *Message Broker* while including unit tests
+
+---
 
 ### Project 9
-This is a *full-stack* project that uses Spring for the back-end, Kafka (alongside Postgres), PostgreSQL for the database and React for the front-end. Note that there are, also, unit tests with Mockito, MockMVC and JUnit in the API / Consumer code-base.
+
+- [Medical Feedback App](https://github.com/mkefiles/software-engineering/tree/main/Project-09_Both)
+- Tech. Stack:
+  - Java (incl. Spring)
+  - JavaScript (incl. React)
+  - Postgres
+  - Apache Kafka
+  - Docker
+  - JUnit and Mockito
+- Goal: Create a full-stack project where an end-user can leave feedback that posts to both a Kafka instance as well as a Postgres database
+- Note: This was a two-person team project used for the *final* assessment during Yorks' training period
+
+---
 
 ### Project 10
-This is a miscellaneous *frontend* project that I self-assigned to learn more about React and React Router. Using the *Random Jokes API* (with `fetch`), I was able to assemble a small app that uses React, React Router and TypeScript.
+
+- [Random Jokes App](https://github.com/mkefiles/software-engineering/tree/main/Project-10_Frontend)
+- Tech. Stack:
+  - TypeScript (incl. React and React Router)
+- Goal: Explore using `fetch()` with React and TypeScript
+
+---
 
 ### Project 11
-This is a miscellaneous *backend* project that I self-assigned to experiment with C# / ASP.NET Core. Using ASP.NET Core, Entity Framework Core, SQLite and C# I was able to replicate *Project 2* (i.e., a simple Social Media Blog API).
+
+- [Social Media App](https://github.com/mkefiles/software-engineering/tree/main/Project-11_Backend)
+- Tech. Stack:
+  - C# (incl. ASP.NET Core and Entity Framework Core)
+  - SQLite
+  - Swashbuckle
+- Goal: Explore C# and ASP.NET Core by recreating the Social Media App (made in the first and second project)
+
