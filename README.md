@@ -1,6 +1,13 @@
 # Software Engineering
 This is a *master* repository of different web-development projects created during my internship with Revature, my time at York and personal side-projects for educational purposes.
 
+TEST
+<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>
+
+[Google](https://www.google.com/){:target="_blank"}
+
+[Google](https://www.google.com/){target="_blank"}
+
 ## Projects
 
 ### Project 1 (Revature)
