@@ -1,29 +1,18 @@
-# Master Repository
+# Software Engineering
+This is a *master* repository of different web-development projects created during my internship with Revature, my time at York and personal side-projects for educational purposes.
 
-## Project Listing
+## Projects
 
-- Project 01 (Revature) -- COMPLETE
-- Project 02 (Revature) -- COMPLETE
-- Project 03 (York - Practice Assignment 01) -- INCOMPLETE
-- Project 04 (York - Practice Assignment 02) -- INCOMPLETE
-- Project 05 (York - Self Assigned React Projects) -- COMPLETE
-- Project 06 (York - Self Assigned RabbitMQ Project) -- COMPLETE
-- Project 07 (York - Self Assigned RabbitMQ / Spring Project) -- COMPLETE
-- Project 08 (York - Practice Challenge 01) -- COMPLETE
-- Project 09 (York - Final Project) -- COMPLETE
-- Project 10 (York - Misc. Project) -- COMPLETE
-- Project 11 (York - Misc. Project) -- COMPLETE 
-
-### Project 1
+### Project 1 (Revature)
 This is a *backend* REST API project with made using Javalin. See Project Overview for project-specific information.
 
-### Project 2
+### Project 2 (Revature)
 This is a *backend* REST API project with Spring. It is similar to Project 1, however it uses the Spring Framework to accomplish the tasks. See Project Overview for project-specific information.
 
-### Project 3
+### Project 3 (York :: Practice)
 This is a *full-stack* project that uses Spring for a *backend* REST API, React for the *frontend* and PostgreSQL for the *database*. The project is **incomplete** as I was unable to finish all requirements within the alotted time-frame. The *backend* is almost complete, however the *frontend* was not started whatsoever. See Project Overview for project-specific information.
 
-### Project 4
+### Project 4 (York :: Practice)
 This is another *full-stack* project that uses Spring for a *backend* REST API, React for the *frontend* and PostgreSQL for the *database*. The project is **incomplete** as I was unable to finish all requirements within the alotted time-frame. The *backend* endpoints are complete and the *frontend* is partially complete. See Project Overview for project-specific information.
 
 ### Project 5
